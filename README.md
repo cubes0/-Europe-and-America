@@ -1,2 +1,154 @@
-# -Europe-and-America
-整理的《那年那时欧美干的那些好似》，专门揭露欧美的“人权”黑历史
+= 俺整理的《欧美黑历史》 =
+
+== 感谢 ==
+
+在介绍这个项目之前我想感谢一下为这个项目提供灵感的[https://github.com/programthink 编程随想]，他用他的这个[https://github.com/programthink/zhao 项目]为我们揭示了什么叫做编程，这就是编程！什么是Github的正确用法，这就是Github的正确用法！我感动的干沛流离，悲嘻交集，可呵可气。可惜听闻编程随想被[https://github.com/programthink/sites/issues/18 国安局请喝茶去了]。于是我本着公平的原则，为欧美人民建立了一个欧美的黑历史，我的初衷和编程随想大佬一样，把黑历史发扬光大，为了黑而黑！
+
+== 简介 ==
+
+此项目创建于最近，专门用来揭露欧美的黑历史。
+
+俺把这最近收集整理的数据开源到 GitHub，便于多人协作——大伙儿群策群力，一起来曝光欧美的“人权”乱象。
+
+随着俺不断完善，数据会越来越多。
+
+对这个项目，俺会【持续更新】。比如欧美每次逼逼赖赖的时候，俺都会补充新的素材。
+
+为了确保数据的可信度，俺主要参考“维基百科”以及一些国际权威媒体的报道（比如《纽约时报》、《华尔街日版》、《金融时报》等等）。
+
+另外，对于某些客观事实（比如：生卒年月、简历、亲戚关系），俺也参考了中国政府的官方网站，以及国内的“百度百科”。
+
+== 下载说明 ==
+
+GitHub 提供了“下载整个项目”的功能，但是会比较大。
+
+如果你仅仅想看《欧美黑历史》这份文档，只需在首页上方点击进入 '''download''' 这个目录。
+
+该目录下有 '''pdf''' 和 '''jpg''' 两个子目录，分别存放对应的 '''【文件类型】''' 。你想要看哪一种文件格式，就进入哪个子目录里面。
+
+进入【文件类型】的子目录之后，会看到一个文件列表。先点击你想要的某个文件，会进入该文件的页面。
+
+然后在【右上方】你会看到一个 '''Raw 按钮''' ，在这个按钮上点【右键】，在【右键菜单】里面选“保存”或“另存为”，就可以把这个文件下载到你本机。
+
+== 多人协作说明 ==
+
+俺非常希望有更多的网友参与该项目，大伙儿一起来完善欧美黑历史的资料。
+
+想要参与的同学，可以通过如下方式：
+
+* 到[https://railway-starter-production-ed39.up.railway.app/ 俺留言板]留言进行反馈，补充信息或反馈错误。
+
+* 在[https://github.com/DragonJay666/-Europe-and-America/issues 本项目发一个 issue]，补充信息或反馈错误。
+
+* Fork 该项目，进行修改，然后向俺发一个 Pull Request
+
+（后面两种方式，你需要有 GitHub 的帐号）
+
+== 数据格式说明 ==
+
+本项目的数据文件，全部采用[https://zh.wikipedia.org/wiki/YAML YAML 格式]。这种格式非常简洁明了，有利于完全不懂技术的网友参与编辑。
+
+而且俺在每一个 YAML 格式的文件中都写了详细的注释，便于其他网友修改。
+
+== 目录说明 ==
+
+=== data 目录 ===
+
+data 目录用来保存数据文件，该目录下另有如下三个子目录：
+
+* person
+
+这个目录存放个人的资料，每个人一个目录，目录名就是人名。对于偶尔有同名的情况，在目录名末尾追加数字序号来区分。
+
+每个目录下都有一个 brief.yaml 文件，包含此人的简介。
+
+有些目录下还有一个 portrait.png 文件，对应此人的头像。
+
+* time
+
+这个目录存放欧美所做的罪行发生的时间，以及有关的重要人物，目录结构与 person 类似。
+
+* place
+
+这个目录存放每个事件发生的地点。每个地点是一个 yaml 格式的文件。
+
+=== download 目录 ===
+
+该目录存放收集的文件，目前先提供 jpg 和 pdf 两种格式。
+
+= I organized the "black history of Europe and the United States =
+
+== Thank you ==
+
+Before introducing this project I would like to thank the people who inspired this project[https://github.com/programthink 编程随想],He used his this[https://github.com/programthink/zhao Projects]Reveals for us what it means to program, and that's programming!What is the right use of Github? This is the right use of Github!Unfortunately, hearing about 编程随想 [https://github.com/programthink/sites/issues/18 being arrested by the National Security Agency].So I established a black history of Europe and the United States for the people of Europe and the United States in the spirit of fairness, my original intention and programming random thoughts big brother, to carry forward the black history!Make Europe amd America Great Again!!!
+
+== Introduction ==
+
+This project was created recently and is dedicated to exposing the black history of Europe and America.
+
+I've open sourced the data I've collected recently to GitHub to make it easier for multiple people to collaborate - a group effort to expose the "human rights" mess in Europe and the United States.
+
+As I continue to improve, the data will become more and more available.
+
+For this project, I will [continue to update]. For example, every time Europe and the United States do something genocidal, I will add new Good thing.
+
+In order to ensure the credibility of the data, I mainly refer to "Wikipedia" and some international authoritative media reports (such as the New York Times, Wall Street Journal, Financial Times, etc.).
+
+In addition, for some objective facts (e.g. birth and death dates, biographies, relatives), I also referred to the official website of the Chinese government, as well as the domestic "Baidu Encyclopedia".
+
+== Download Instructions ==
+GitHub offers the ability to "download the entire project", but it can be quite large.
+
+If you just want to see the document "European and American Black History", just click on the top of the home page and go to the '''download''' directory.
+
+There are two subdirectories, '''pdf''' and '''jpg''', under this directory, each holding the corresponding '''[file type]'''. If you want to see which file format, you can enter the subdirectory.
+
+Once you enter the [File Type] subdirectory, you will see a list of files. First click on a particular file you want and it will take you to the page of that file.
+
+Then you will see a '''Raw button''' at the top right, click on this button and select "Save" or "Save as" in the context menu to download the file to your local computer.
+
+== Multiplayer collaboration instructions ==
+
+I very much hope that more netizens will participate in the project, and that the group will come together to improve the information on the black history of Europe and the United States.
+
+People who wish to participate can do so by.
+
+* To[https://railway-starter-production-ed39.up.railway.app/ My Message Board]Leave a message for feedback, additional information or feedback on errors.
+
+* To[https://github.com/DragonJay666/-Europe-and-America/issues Send an issue for this project]，Additional information or feedback on errors.
+
+* Fork the project, make changes, and then send a Pull Request to this project
+
+(For the latter two, you need to have a GitHub account)
+
+== Description of data format ==
+
+The data files for this project, all using[https://zh.wikipedia.org/wiki/YAML YAML format].This format is very concise and clear, which facilitates the participation of completely non-technical web users in editing.
+
+And I have written detailed comments in each YAML-formatted file to make it easier for other users to modify.
+
+== Directory description ==
+
+=== The data directory ===
+
+The data directory is used to store data files and has three other subdirectories as follows.
+
+* person
+
+This directory holds personal data, one for each person, and the directory name is the person's name. For occasional cases of the same name, the directory name is distinguished by appending a numeric sequence to the end of the directory name.
+
+Each directory has a brief.yaml file that contains the person's profile.
+
+Some directories also have a portrait.png file, which corresponds to the person's avatar.
+
+* time
+
+This directory stores the time when the crimes committed by Europe and the United States occurred, as well as the important people involved, and is similar in structure to person.
+
+* place
+
+This directory holds the location of each event. Each place is a file in yaml format.
+
+=== download directory ===
+
+This directory holds the collected files, currently available in jpg and pdf formats.
