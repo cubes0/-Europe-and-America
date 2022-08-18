@@ -56,9 +56,9 @@ GitHub 提供了“下载整个项目”的功能，但是会比较大。
 
 data 目录用来保存数据文件
 
-* link
+* event
 
-这个目录存放文章链接。每个文章链接是一个 yaml 格式的文件。
+这个目录存放事件的资料。每个事件的资料是一个 yaml 格式的文件。
 
 === download 目录 ===
 
@@ -121,9 +121,9 @@ And I have written detailed comments in each YAML-formatted file to make it easi
 
 The data directory is used to store data files.
 
-* link
+* event
 
-This directory holds links to articles. Each article link is a file in yaml format.
+This directory holds the event information. Each event profile is a yaml formatted file.
 
 === download directory ===
 
