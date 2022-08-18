@@ -1,0 +1,33 @@
+# 本文件必须用【UTF-8】编码。
+# This document must be encoded in [UTF-8].
+# 在 YAML 格式中，井号 # 之后的内容表示注释。
+# In YAML format, the content after the well # indicates a comment.
+
+# website 必填。填写网站名或者链接
+# website is required. Fill in the website name or link
+website: Jonathan Mork
+
+# description 可为空。填写网站的描述或者让你比较震撼的话语
+# description can be empty. Fill in the description of the website or the words that make you more shocked
+description: 
+
+# evaluate 可为空。填写你看完此网站后的感受，或者对此事件的评价
+# evaluate can be empty. Fill in how you feel about the site after viewing it, or evaluate the event
+evaluate: 
+
+# solution 可为空。填写你认为可以通过什么方法，如何解决这个问题
+# solution can be empty. Fill in what you think can be done and how to solve this problem
+solution: 
+
+# people 必填。填写此次事件你认为的主要人物。
+# people Required. Fill in who you think is the main person in this event.
+people: 
+
+# links 可为空。放置关于此人的网页链接（一个或多个），使用 YAML 的【list】语法表示。
+# links can be empty. Place links to pages about this person (one or more), using the YAML [list] syntax.
+# 考虑到可信度的问题，首选“维基百科”，其次是“国际权威媒体”。
+# Considering the issue of credibility, "Wikipedia" is preferred, followed by "international authoritative media".
+# 对于客观事实，也可以引用国内网站，比如“百度百科”或“政府网站”。
+# For objective facts, you can also cite domestic websites, such as "Baidu Encyclopedia" or "government websites".
+links:
+  - https://zh.wikipedia.org/wiki/%E5%8A%A0%E6%8B%BF%E5%A4%A7%E5%8D%B0%E5%9C%B0%E5%AE%89%E4%BA%BA%E5%AF%84%E5%AE%BF%E5%AD%B8%E6%A0%A1%E7%B3%BB%E7%B5%B1
