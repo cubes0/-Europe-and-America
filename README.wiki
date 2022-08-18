@@ -54,23 +54,11 @@ GitHub 提供了“下载整个项目”的功能，但是会比较大。
 
 === data 目录 ===
 
-data 目录用来保存数据文件，该目录下另有如下三个子目录：
+data 目录用来保存数据文件
 
-* person
+* link
 
-这个目录存放个人的资料，每个人一个目录，目录名就是人名。对于偶尔有同名的情况，在目录名末尾追加数字序号来区分。
-
-每个目录下都有一个 brief.yaml 文件，包含此人的简介。
-
-有些目录下还有一个 portrait.png 文件，对应此人的头像。
-
-* time
-
-这个目录存放欧美所做的罪行发生的时间，以及有关的重要人物，目录结构与 person 类似。
-
-* place
-
-这个目录存放每个事件发生的地点。每个地点是一个 yaml 格式的文件。
+这个目录存放文章链接。每个文章链接是一个 yaml 格式的文件。
 
 === download 目录 ===
 
@@ -131,23 +119,11 @@ And I have written detailed comments in each YAML-formatted file to make it easi
 
 === The data directory ===
 
-The data directory is used to store data files and has three other subdirectories as follows.
+The data directory is used to store data files.
 
-* person
+* link
 
-This directory holds personal data, one for each person, and the directory name is the person's name. For occasional cases of the same name, the directory name is distinguished by appending a numeric sequence to the end of the directory name.
-
-Each directory has a brief.yaml file that contains the person's profile.
-
-Some directories also have a portrait.png file, which corresponds to the person's avatar.
-
-* time
-
-This directory stores the time when the crimes committed by Europe and the United States occurred, as well as the important people involved, and is similar in structure to person.
-
-* place
-
-This directory holds the location of each event. Each place is a file in yaml format.
+This directory holds links to articles. Each article link is a file in yaml format.
 
 === download directory ===
 
