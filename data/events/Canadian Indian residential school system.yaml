@@ -5,7 +5,20 @@
 
 # website 必填。填写网站名或者链接
 # website is required. Fill in the website name or link
-website: Jonathan Mork
+website: 
+ - https://indigenousfoundations.arts.ubc.ca/the_residential_school_system/
+ - https://www.thecanadianencyclopedia.ca/en/article/residential-schools
+ - https://www.rcaanc-cirnac.gc.ca/eng/1625663008357/1625663325319
+ - https://nctr.ca/education/teaching-resources/residential-school-history/
+ - https://kids.britannica.com/kids/article/Indian-Residential-Schools/634246
+ - https://manitobamuseum.ca/visit/museum-galleries/prairies-gallery/understanding-residential-schools
+ - https://ecampusontario.pressbooks.pub/indigstudies/chapter/chapter-1/
+ - https://www.sticktochange.org/post/canadian-indian-residential-schools
+ - https://irshdc.ubc.ca/learn/indian-residential-schools/
+ - https://www.afn.ca/policy-sectors/indian-residential-schools/
+ - https://wokewatchcanada.substack.com/p/in-1959-indigenous-leaders-wished
+ - https://allthatsinteresting.com/residential-schools-in-canada
+ - https://www.wonderslist.com/10-terrifying-truths-about-canadian-residential-schools/
 
 # description 可为空。填写网站的描述或者让你比较震撼的话语
 # description can be empty. Fill in the description of the website or the words that make you more shocked
@@ -31,3 +44,7 @@ people:
 # For objective facts, you can also cite domestic websites, such as "Baidu Encyclopedia" or "government websites".
 links:
   - https://zh.wikipedia.org/wiki/%E5%8A%A0%E6%8B%BF%E5%A4%A7%E5%8D%B0%E5%9C%B0%E5%AE%89%E4%BA%BA%E5%AF%84%E5%AE%BF%E5%AD%B8%E6%A0%A1%E7%B3%BB%E7%B5%B1
+  - https://en.wikipedia.org/wiki/Canadian_Indian_residential_school_system
+  - https://www.nytimes.com/2021/07/05/world/canada/Indigenous-residential-schools-photos.html
+  - https://www.cbsnews.com/news/canada-residential-schools-unmarked-graves-indigenous-children-60-minutes-2022-02-06/
+  - https://sites.google.com/site/residentialschoolhistory/
